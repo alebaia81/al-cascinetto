@@ -166,7 +166,7 @@ function renderPalaTab() {
     <!-- ★ PALA ROMANA FEATURED CARD ★ -->
     <div class="rounded-2xl border-2 border-gold/50 bg-gradient-to-br from-gold/10 via-dark-card to-dark-card p-6 md:p-8 mb-10 relative overflow-hidden shadow-gold">
       <div class="absolute top-0 right-0 px-5 py-2 bg-gold text-dark-primary text-xs font-bold tracking-[0.15em] uppercase rounded-bl-2xl">
-        ★ Il Cavallo di Battaglia
+        ★
       </div>
       <div class="flex flex-col lg:flex-row gap-8 items-start lg:items-center">
         <div class="flex-1">
