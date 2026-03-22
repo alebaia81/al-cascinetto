@@ -170,7 +170,7 @@ function renderPalaTab() {
       </div>
       <div class="flex flex-col lg:flex-row gap-8 items-start lg:items-center">
         <div class="flex-1">
-          <p class="text-gold/80 text-xs tracking-[0.35em] uppercase mb-3">Formato 60×35 cm · Anche Gluten Free</p>
+          <p class="text-gold/80 text-xs tracking-[0.35em] uppercase mb-3 pr-12 md:pr-0">Formato 60×35 cm · Anche Gluten Free</p>
           <h3 class="font-serif text-3xl md:text-4xl text-white font-bold leading-tight mb-4">
             Pizza in Pala<br/><em class="text-gold">alla Romana</em>
           </h3>
